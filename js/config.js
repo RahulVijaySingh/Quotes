@@ -1,0 +1,3 @@
+// const MY_API_KEY="d0089664c5msh17d1e4d798510fbp15262ejsn4582677b2b7c";
+const MY_API_KEY = "b96578d531msh6726e0937a12198p1e00ccjsn5903ebbd1cbd";
+export { MY_API_KEY }
